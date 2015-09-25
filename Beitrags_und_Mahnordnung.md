@@ -1,18 +1,16 @@
 #Beitrags- und Mahnordnung
 *des Netz39 e.V. - Hackerspace Magdeburg*
 
-in der Fassung vom 06.05.2012
-
-Im Zuge der Gründungsversammlung am 06.05.2012 wurde die Beitrags- und Mahnordnung in der vorliegenden Fassung von der Gründungsversammlung beschlossen
+in der Fassung vom 14.10.2015
 
 ###§1 Beitragsordnung
 1. Der Mitgliedsbeitrag ist jeweils zum Beginn eines Quartals für das gesamte Quartal im Voraus zu entrichten oder kann per Lastschriftverfahren eingezogen werden.
 
 2. Für den Beitritt wird eine Beitrittsgebühr in Höhe von 10,00 € erhoben, die mit dem ersten Beitrag fällig wird.
 
-3. Der Monatsbeitrag beträgt für aktive Mitglieder 30,00 €.
+3. Der Quartalsbeitrag beträgt für aktive Mitglieder 90,00 €.
 
-4. Auf Wunsch eines Mitglieds wird ein ermäßigter Beitragssatz in Höhe von 10,00€ pro Monat gewährt. Dieser Wunsch kann jederzeit beim Schatzmeister für ein Kalenderjahr angezeigt werden. Alle Mitglieder sind angehalten, diese Regelung nur im Bedarfsfall zu nutzen.
+4. Auf Wunsch eines Mitglieds wird ein ermäßigter Beitragssatz in Höhe von 30,00€ pro Quartal gewährt. Dieser Wunsch kann rechtzeitig vor Beginn eines Quartals beim Schatzmeister für ein Kalenderjahr angezeigt werden. Alle Mitglieder sind angehalten, diese Regelung nur im Bedarfsfall zu nutzen.
 
 5. Der Beitrag für Fördermitglieder wird individuell vom Vorstand mit den jeweiligen Fördermitgliedern ausgehandelt und auf der nächsten Mitgliederversammlung bestätigt. Bei natürlichen Personen dienen Abs. 3 und Abs. 4 als Richtlinie.
 

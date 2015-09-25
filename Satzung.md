@@ -1,11 +1,11 @@
 #Satzung
 *des Netz39 e.V. - Hackerspace Magdeburg*
 
-in der Fassung vom 24.01.2013
+in der Fassung vom 14.10.2015
 
 Präambel
 --------
-Im folgenden finden sich Satzungen und Ordnungen des Vereins Netz39 auf dem Stand vom 24.01.2013. In diesem Dokument wird der Einfachheit halber ein generisches Maskulinum (z.B. "ein Mitglied") verwendet. Damit sind jedoch stets alle Geschlechter gemeint. An Stellen, an denen schriftliche Kommunikation gefordert wird, ist E-Mail stets mit eingeschlossen.
+Im folgenden finden sich Satzungen und Ordnungen des Vereins Netz39 auf dem Stand vom 14.10.2015. In diesem Dokument wird der Einfachheit halber ein generisches Maskulinum (z.B. "ein Mitglied") verwendet. Damit sind jedoch stets alle Geschlechter gemeint. An Stellen, an denen schriftliche Kommunikation gefordert wird, ist E-Mail stets mit eingeschlossen.
 
 ￼￼Vereinssatzung
 --------------
@@ -43,7 +43,7 @@ Im folgenden finden sich Satzungen und Ordnungen des Vereins Netz39 auf dem Stan
 2. Die Mitgliedschaft beginnt mit der Aushändigung einer entsprechenden Bestätigung durch ein Vorstandsmitglied.
 
 3. Die Mitgliedschaft endet
- -	durch freiwillige Beendigung mit viermonatiger Frist zum Ende des Quartals durch schriftliche Erklärung gegenüber dem Vorstand;
+ -	durch freiwillige Beendigung ohne First durch schriftliche Erklärung gegenüber dem Vorstand;
  -	bei natürlichen Personen durch Tod;
  -	bei juristischen Personen mit Abschluss der Liquidation;
  -	bei Eintritt der Insolvenz des Vereins;
