@@ -43,7 +43,7 @@ Im folgenden finden sich Satzungen und Ordnungen des Vereins Netz39 auf dem Stan
 2. Die Mitgliedschaft beginnt mit der Aushändigung einer entsprechenden Bestätigung durch ein Vorstandsmitglied.
 
 3. Die Mitgliedschaft endet
- -	durch freiwillige Beendigung ohne First durch schriftliche Erklärung gegenüber dem Vorstand;
+ -	durch freiwillige Beendigung ohne Frist durch schriftliche Erklärung gegenüber dem Vorstand;
  -	bei natürlichen Personen durch Tod;
  -	bei juristischen Personen mit Abschluss der Liquidation;
  -	bei Eintritt der Insolvenz des Vereins;
