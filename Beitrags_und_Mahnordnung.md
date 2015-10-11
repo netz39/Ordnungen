@@ -14,6 +14,8 @@ in der Fassung vom 14.10.2015
 
 5. Der Beitrag für Fördermitglieder wird individuell vom Vorstand mit den jeweiligen Fördermitgliedern ausgehandelt und auf der nächsten Mitgliederversammlung bestätigt. Bei natürlichen Personen dienen Abs. 3 und Abs. 4 als Richtlinie.
 
+6. Der Mitgliedsbeitrag im Eintrittsquartal enfällt. Alle Neumitglieder sind angehalten, einen für sie angemessenen Betrag zu spenden.
+
 ###§2 Mahnordnung
 1. Zwei Wochen nach dem Zahlungstermin (1. Tag des jeweiligen Quartals) des fälligen Mitgliedsbeitrags erfolgt eine Zahlungserinnerung unter Angabe des Zahlungsziels.
 
