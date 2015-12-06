@@ -43,11 +43,11 @@ Im folgenden finden sich Satzungen und Ordnungen des Vereins Netz39 auf dem Stan
 2. Die Mitgliedschaft beginnt mit der Aushändigung einer entsprechenden Bestätigung durch ein Vorstandsmitglied.
 
 3. Die Mitgliedschaft endet
- -	durch freiwillige Beendigung mit zweiwöchiger Frist zum Ende des Quartals durch schriftliche Erklärung gegenüber dem Vorstand;
- -	bei natürlichen Personen durch Tod;
- -	bei juristischen Personen mit Abschluss der Liquidation;
- -	bei Eintritt der Insolvenz des Vereins;
- -	durch Ausschluss gemäß §6.
+	* 	durch freiwillige Beendigung mit zweiwöchiger Frist zum Ende des Quartals durch schriftliche Erklärung gegenüber dem Vorstand;
+	* bei natürlichen Personen durch Tod;
+	* bei juristischen Personen mit Abschluss der Liquidation;
+	* bei Eintritt der Insolvenz des Vereins;
+	* durch Ausschluss gemäß §6.
 
 4. Bei Beendigung der Mitgliedschaft, gleich aus welchem Grund, erlöschen alle Ansprüche aus dem Mitgliedsverhältnis. Eine Rückgewähr von Beiträgen, Spenden oder sonstigen Unterstützungsleistungen ist grundsätzlich ausgeschlossen.
 
@@ -71,8 +71,9 @@ Im folgenden finden sich Satzungen und Ordnungen des Vereins Netz39 auf dem Stan
 
 ###§7 Organe des Vereins
 1. Organe des Vereins sind
- -	die Mitgliederversammlung;
- -	der Vorstand.
+
+	* 	die Mitgliederversammlung;
+	* 	der Vorstand.
 
 2. Einem Organ des Vereins können nur aktive Mitglieder des Vereins angehören.
 
