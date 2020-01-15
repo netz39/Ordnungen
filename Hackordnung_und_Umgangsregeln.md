@@ -1,19 +1,19 @@
-#Hackordnung und Umgangsregeln
+# Hackordnung und Umgangsregeln
 *des Netz39 e.V. - Hackerspace Magdeburg*
 
 in der Fassung vom 24.01.2013
 
 
-###§0 Allgemeines
+### §0 Allgemeines
   - Mit Betreten des Klubs wird diese Hausordnung und die Satzung des Vereins *Netz39 e.V.* akzeptiert.
   - Das Hausrecht wird von den Vereinsmitgliedern durchgesetzt.
   - Jeder Gast hat auf seine Sachen selbst zu achten.
   - Der Verein oder seine Mitglieder übernehmen keine Haftung für mitgebrachte Gegenstände jeglicher Art. 
 
-###§1 Gegenseitige Rücksichtnahme
+### §1 Gegenseitige Rücksichtnahme
   - Es gelten allgemein von der Gesellschaft anerkannte Regeln und Normen.
 
-###§2 Ordnung
+### §2 Ordnung
   - Nach Benutzung von Arbeitsplätzen und dem Lougebereich hat jeder seinen Müll und Dreck zu entsorgen, aufzuräumen bzw. zu säubern.
     * Benutztes Werkzeug ist wieder an den dafür vorgesehenen Platz einzusortieren.
     * Der Arbeitsplatz muss für den Nächsten wieder benutzbar sein.
@@ -26,7 +26,7 @@ in der Fassung vom 24.01.2013
   - Verschimmeltes und Gammeliges fliegt weg, egal wem es gehört.
     * Sonderregeln für Experimente sind ausdrücklich so zu kennzeichnen und dürfen keine allg. Gefährdung der Gesundheit anderer verursachen.
 
-###§3 Ethisches Handeln
+### §3 Ethisches Handeln
 Wir sind ein offener und fortschrittlicher Verein. Wir unterstützen die vom CCC aufgestellte Computer-Ethik.
   - Der Zugang zu Computern und allem, was einem zeigen kann, wie diese Welt funktioniert, sollte unbegrenzt und vollständig sein.
   - Alle Informationen müssen frei sein.
