@@ -1,9 +1,10 @@
-#Beitrags- und Mahnordnung
+# Beitrags- und Mahnordnung
 *des Netz39 e.V. - Hackerspace Magdeburg*
 
 in der Fassung vom 18.10.2017
 
-###§1 Beitragsordnung
+### §1 Beitragsordnung
+  
 1. Der Mitgliedsbeitrag wird quartalsweise per Lastschriftverfahren eingezogen. Der Einzug erfolgt in der Regel zu Beginn des Quartals.
 
 2. Der Monatsbeitrag beträgt für aktive Mitglieder 30,00 €.
@@ -12,7 +13,8 @@ in der Fassung vom 18.10.2017
 
 4. Der Beitrag für Fördermitglieder, die natürliche Personen sind, liegt bei mindestens 10,00 € pro Monat. Der Beitrag für Fördermitglieder, die juristische Personen sind, wird individuell vom Vorstand mit den jeweiligen Fördermitgliedern ausgehandelt und auf der nächsten Mitgliederversammlung bestätigt. 
 
-###§2 Mahnordnung
+### §2 Mahnordnung
+
 1. Bei nicht eingelösten Lastschriften erfolgt unverzüglich eine Information per E-Mail an das entsprechende Mitglied. Frühestens nach zwei Wochen erfolgt ein erneuter Einzugsversuch inklusive etwaig entstandener Rücklastschriftgebühren.
 
 2. Wird auch diese zweite Lastschrift nicht eingelöst, erfolgt per E-Mail die erste Mahnung. Es wird ein neues Zahlungsziel von zwei Wochen gesetzt und eine Mahngebühr von 5,00 € zusätzlich zum ausstehenden Beitrag erhoben.
