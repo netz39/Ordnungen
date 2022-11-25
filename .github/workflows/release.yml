@@ -15,8 +15,7 @@ jobs:
       - name: Retrieve pdf files
         uses: actions/download-artifact@v3.0.1
         with:
-          name: build-artifact
-          path: build/artifacts
+          name: PDFs
     
       - name: Create Release
         id: create_release
