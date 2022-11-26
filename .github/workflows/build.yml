@@ -14,11 +14,20 @@ jobs:
     steps:
     - name: Checkout code.
       uses: actions/checkout@v3
-    - name: Build PDFs.
+
+    - name: Build PDFs from tex files
       uses: xu-cheng/latex-action@v2
       with:
         root_file: |
           Satzung.tex
+          
+    - name: Build PDFs from md files
+      uses: baileyjm02/markdown-to-pdf@v1.2.0
+      with:
+        input_dir: /
+        output_dir: /
+        # Default is true, can set to false to only get PDF files
+        build_html: false
           
     - name: Upload PDFs temporary.
       uses: actions/upload-artifact@v3.1.1
