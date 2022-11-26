@@ -20,7 +20,7 @@ jobs:
           Satzung.tex
           
     - name: Upload PDFs temporary.
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3.1.1
       with:
         name: PDFs
         path: "*.pdf"
