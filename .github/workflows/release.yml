@@ -42,3 +42,33 @@ jobs:
           asset_path: ./Satzung.pdf
           asset_name: Satzung.pdf
           asset_content_type: application/pdf
+
+      - name: Upload Beitrags_und_Mahnordnung.pdf
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Beitrags_und_Mahnordnung.pdf
+          asset_name: Beitrags_und_Mahnordnung.pdf
+          asset_content_type: application/pdf
+
+      - name: Upload Geschaeftsordnung_des_Vorstands.pdf
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Geschaeftsordnung_des_Vorstands.pdf
+          asset_name: Geschaeftsordnung_des_Vorstands.pdf
+          asset_content_type: application/pdf
+
+      - name: Upload Hackordnung_und_Umgangsregeln.pdf
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Hackordnung_und_Umgangsregeln.pdf
+          asset_name: Hackordnung_und_Umgangsregeln.pdf
+          asset_content_type: application/pdf
