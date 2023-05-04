@@ -62,13 +62,3 @@ jobs:
           asset_path: ./Geschaeftsordnung_des_Vorstands.pdf
           asset_name: Geschaeftsordnung_des_Vorstands.pdf
           asset_content_type: application/pdf
-
-      - name: Upload Hackordnung_und_Umgangsregeln.pdf
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Hackordnung_und_Umgangsregeln.pdf
-          asset_name: Hackordnung_und_Umgangsregeln.pdf
-          asset_content_type: application/pdf
