@@ -3,7 +3,7 @@
 
 in der Fassung vom 27.06.2012
 
-Am 2012-06-27 durch Vorstand beschlossen.
+Am 2012-06-27 durch den Vorstand beschlossen.
 
 ### §1 Sitzungen
 
@@ -36,9 +36,9 @@ Am 2012-06-27 durch Vorstand beschlossen.
 
 ### §6 Meinungsbildung
 
- - Der Vorstand nutzt die Mitglieder-Mailingliste um ein Meinungsbild der Vereinsmitglieder zu erhalten.
+ - Der Vorstand nutzt die Mitglieder-Mailingliste, um ein Meinungsbild der Vereinsmitglieder zu erhalten.
  - Abstimmungen haben Empfehlungscharakter und sind nicht bindend.
- - Gegenstand von Abstimmungen sind Themen welche eine Entscheidung durch den Vorstand benötigen.
+ - Gegenstand von Abstimmungen sind Themen, welche eine Entscheidung durch den Vorstand benötigen.
  - Abstimmungsberechtigt ist jedes aktive Mitglied.
 
 ### §7 Finanzen
