@@ -24,7 +24,7 @@ Am 2012-06-27 durch Vorstand beschlossen.
 
 ### §4 Niederschrift
 
- - Über Vorstandssitzungen ist ein Sitzungsprotokoll zu fertigen. Das Protokoll muss umfassen: Datum und Uhrzeit der Versammlung, eine Namensliste der Teilnehmer, die Feststellung der Beschlussfähigkeit, die Tagesordnung, Anträge zur Tagesordnung, die Beschlüsse unter Angabe des Abstimmungsergebnisses. Auf Verlangen von Vorstandsmitgliedern müssen abgegebene Erklärungen in das Protokoll aufgenommen werden.
+ - Über Vorstandssitzungen ist ein Sitzungsprotokoll zu fertigen. Das Protokoll muss umfassen: Datum und Uhrzeit der Versammlung, eine Namensliste der Teilnehmenden, die Feststellung der Beschlussfähigkeit, die Tagesordnung, Anträge zur Tagesordnung, die Beschlüsse unter Angabe des Abstimmungsergebnisses. Auf Verlangen von Vorstandsmitgliedern müssen abgegebene Erklärungen in das Protokoll aufgenommen werden.
  - Jedem Vorstandsmitglied ist eine Abschrift des Sitzungsprotokolls über das Wiki verfügbar.
  - Gegen den Inhalt des Protokolls kann jedes Vorstandsmitglied innerhalb von zwei Wochen nach Zustellung schriftlich Einwendungen erheben. Über Einwendungen wird in der nächsten Vorstandssitzung entschieden. Sollte bis zum Ablauf der Frist keine Einwendungen erhoben werden, gilt das Sitzungsprotokoll als genehmigt.
  - Den Mitgliedern wird die Mitschrift des Sitzungsprotokolls im Wiki zugänglich gemacht.
